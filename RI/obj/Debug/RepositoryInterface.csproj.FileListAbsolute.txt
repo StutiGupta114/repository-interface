@@ -1,0 +1,13 @@
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\RI.exe.config
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\RI.exe
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\RI.pdb
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\EntityFramework.dll
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\EntityFramework.xml
+C:\Users\I562010\source\repos\RI\RI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RepositoryInterface.csproj.AssemblyReference.cache
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RepositoryInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RepositoryInterface.csproj.CoreCompileInputs.cache
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RepositoryInterface.csproj.CopyComplete
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RI.exe
+C:\Users\I562010\source\repos\RI\RI\obj\Debug\RI.pdb
